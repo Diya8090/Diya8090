@@ -58,56 +58,24 @@
 
 ## 🚀 Featured Projects
 
-### 🎬 IMDb Clone — Movie Discovery Frontend
+### 🎬 IMDb Clone
 
-A modern **movie browsing frontend inspired by IMDb**, built to practice responsive UI development, reusable components, and dynamic movie data presentation.
+Movie browsing frontend built with **React**, focused on clean UI and responsive design.
 
-**Tech:** `React` · `JavaScript` · `HTML5` · `CSS3`
+**Tech:** `React` · `JavaScript` · `HTML` · `CSS`
 
-**Highlights:**
+### 🎓 Student Mentoring Management System
 
-* 🎥 Movie and entertainment-focused user interface
-* 🔎 Movie browsing and search experience
-* 🧩 Reusable React components
-* 📱 Responsive frontend design
-* ⚡ Focused on clean and interactive user experience
+Full-stack application for managing students, mentors, and mentoring activities.
 
----
+**Tech:** `React` · `Web API` · `Express.js` · `SQL`
 
-### 🎓 Student Mentoring Management System — Full Stack
+### 🚧 Student Project Management System
 
-A **full-stack web application** designed to manage student-mentor interactions, academic information, mentoring activities, and related data in one system.
+Currently building a project management platform for students with project and task tracking.
 
-**Tech:** `React` · `Web API` · `Express.js` · `SQL Database`
+**Tech:** `React` · `C#` · `.NET Core Web API` · `SQL Server`
 
-**Highlights:**
-
-* 👨‍🎓 Student and mentor management
-* 🔗 Frontend connected with backend APIs
-* 🗄️ SQL database for persistent data
-* ⚙️ Backend services using Express.js and Web API
-* 🔄 CRUD operations and API-based data communication
-* 🖥️ Interactive React-based frontend
-
----
-
-### 🚧 Student Project Management System — Currently Building
-
-A **full-stack project management system for students** currently under development, focused on managing student projects, project information, tasks, progress, and related academic activities.
-
-**Tech:** `React` · `C#` · `ASP.NET Core Web API` · `SQL Server`
-
-**Currently Working On:**
-
-* 🏗️ Designing the ASP.NET Core Web API
-* 🔐 Implementing backend logic with C#
-* 🗄️ Designing and integrating the SQL Server database
-* 🔗 Connecting the React frontend with REST APIs
-* 📋 Building project and task management functionality
-* 🧪 Implementing validation and reliable API operations
-
-> 🚀 **Status:** Actively developing and adding new features.
----
 
 ## 📚 Currently Learning
 
@@ -119,25 +87,16 @@ A **full-stack project management system for students** currently under developm
 * 🧩 System Design
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diya8090&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diya8090&theme=tokyonight" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p>
+  <a href="mailto:your-diyaraiyani89@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://github.com/Diya8090">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/diya-raiyani-2a0b35324/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
