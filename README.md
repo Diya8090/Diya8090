@@ -56,92 +56,77 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
----
+## 🚀 Featured Projects
 
-## 🚀 What I Build
+### 🎬 IMDb Clone — Movie Discovery Frontend
 
-```text
-🎨 Modern Frontend
-        ↓
-⚛️ React / Next.js
-        ↓
-🔗 REST APIs
-        ↓
-⚙️ ASP.NET Core / NestJS
-        ↓
-🗄️ SQL Server & Databases
-```
+A modern **movie browsing frontend inspired by IMDb**, built to practice responsive UI development, reusable components, and dynamic movie data presentation.
 
-I enjoy working across the stack — from designing user interfaces to building APIs and working with databases.
+**Tech:** `React` · `JavaScript` · `HTML5` · `CSS3`
+
+**Highlights:**
+
+* 🎥 Movie and entertainment-focused user interface
+* 🔎 Movie browsing and search experience
+* 🧩 Reusable React components
+* 📱 Responsive frontend design
+* ⚡ Focused on clean and interactive user experience
 
 ---
 
-## 📌 Featured Projects
+### 🎓 Student Mentoring Management System — Full Stack
 
-### 🎓 Student Management API
+A **full-stack web application** designed to manage student-mentor interactions, academic information, mentoring activities, and related data in one system.
 
-A RESTful API built using **ASP.NET Core** for managing students, departments, and related data.
+**Tech:** `React` · `Web API` · `Express.js` · `SQL Database`
 
-### 📚 Library Management System
+**Highlights:**
 
-A database-driven application designed to manage books, users, borrowing, and library operations.
+* 👨‍🎓 Student and mentor management
+* 🔗 Frontend connected with backend APIs
+* 🗄️ SQL database for persistent data
+* ⚙️ Backend services using Express.js and Web API
+* 🔄 CRUD operations and API-based data communication
+* 🖥️ Interactive React-based frontend
 
-### ⚛️ React Applications
+---
 
-Interactive frontend applications built using **React**, APIs, and modern web development practices.
+### 🚧 Student Project Management System — Currently Building
 
-> 🚧 More projects coming soon...
+A **full-stack project management system for students** currently under development, focused on managing student projects, project information, tasks, progress, and related academic activities.
 
+**Tech:** `React` · `C#` · `ASP.NET Core Web API` · `SQL Server`
+
+**Currently Working On:**
+
+* 🏗️ Designing the ASP.NET Core Web API
+* 🔐 Implementing backend logic with C#
+* 🗄️ Designing and integrating the SQL Server database
+* 🔗 Connecting the React frontend with REST APIs
+* 📋 Building project and task management functionality
+* 🧪 Implementing validation and reliable API operations
+
+> 🚀 **Status:** Actively developing and adding new features.
 ---
 
 ## 📚 Currently Learning
 
-* ⚡ Advanced React & Next.js
 * 🏗️ NestJS & Backend Architecture
 * 🔐 Authentication & Authorization
 * 🗄️ Advanced SQL
 * 🌐 RESTful API Development
 * ☁️ Deployment & Cloud Technologies
 * 🧩 System Design
-
----
-
-## 🧠 Problem Solving
-
-I regularly practice:
-
-```text
-Data Structures & Algorithms
-        +
-SQL & Database Problems
-        +
-LeetCode-style Problems
-        =
-Better Problem Solver 🧠
-```
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Build more full-stack projects
-* 💻 Strengthen backend development
-* ⚛️ Master React & Next.js
-* 🏗️ Learn NestJS deeply
-* 🧠 Improve DSA & problem solving
-* 🌐 Build and deploy production-ready applications
-* 🤝 Contribute to open-source projects
-
 ---
 
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Diya8090&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diya8090&theme=tokyonight" />
 </p>
 
 ---
@@ -149,7 +134,7 @@ Better Problem Solver 🧠
 ## 🤝 Let's Connect
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Diya8090">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="YOUR_LINKEDIN_URL">
