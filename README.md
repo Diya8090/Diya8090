@@ -56,6 +56,8 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
+---
+
 ## 🚀 Featured Projects
 
 ### 🎬 IMDb Clone
@@ -76,6 +78,7 @@ Currently building a project management platform for students with project and t
 
 **Tech:** `React` · `C#` · `.NET Core Web API` · `SQL Server`
 
+---
 
 ## 📚 Currently Learning
 
