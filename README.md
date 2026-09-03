@@ -83,7 +83,6 @@ Currently building a project management platform for students with project and t
 ## 📚 Currently Learning
 
 * 🏗️ NestJS & Backend Architecture
-* 🔐 Authentication & Authorization
 * 🌐 RESTful API Development
 * ☁️ Deployment & Cloud Technologies
 * 🧩 System Design
