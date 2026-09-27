@@ -79,7 +79,19 @@ Currently building a project management platform for students with project and t
 **Tech:** `React` · `C#` · `.NET Core Web API` · `SQL Server`
 
 ---
+## 🏦 Bank Marketing Campaign Prediction
 
+> 🤖 Machine Learning system that predicts whether a customer is likely to subscribe to a bank term deposit.
+
+**ML Models:** Logistic Regression • Decision Tree • Random Forest • SVM
+
+📊 **Enter customer details → Get subscription prediction**
+
+### 🚀 [TRY THE LIVE PREDICTOR](https://bank-marketing-campaign-ml-project.vercel.app/)
+
+[💻 View Source Code](YOUR_GITHUB_REPO)
+
+---
 ## 📚 Currently Learning
 
 * 🏗️ NestJS & Backend Architecture
