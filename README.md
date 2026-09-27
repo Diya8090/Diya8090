@@ -89,7 +89,7 @@ Currently building a project management platform for students with project and t
 
 ### 🚀 [TRY THE LIVE PREDICTOR](https://bank-marketing-campaign-ml-project.vercel.app/)
 
-[💻 View Source Code](YOUR_GITHUB_REPO)
+[💻 View Source Code](Bank-Marketing-Campaign-ML-Project-)
 
 ---
 ## 📚 Currently Learning
