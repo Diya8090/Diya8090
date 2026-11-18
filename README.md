@@ -72,11 +72,13 @@ Full-stack application for managing students, mentors, and mentoring activities.
 
 **Tech:** `React` · `Web API` · `Express.js` · `SQL`
 
-### 🚧 Student Project Management System
+### 🎓 Student Project Management System
 
-Currently building a project management platform for students with project and task tracking.
+Developed a web-based platform to streamline student project management, allowing users to manage projects, track tasks, monitor progress, and organize project-related activities efficiently.
 
-**Tech:** `React` · `C#` · `.NET Core Web API` · `SQL Server`
+**Tech Stack:** `React` · `C#` · `.NET Core Web API` · `SQL Server`
+
+**Status:** ✅ Completed
 
 ---
 ## 🏦 Bank Marketing Campaign Prediction
@@ -86,8 +88,6 @@ Currently building a project management platform for students with project and t
 **ML Models:** Logistic Regression • Decision Tree • Random Forest • SVM
 
 📊 **Enter customer details → Get subscription prediction**
-
-### 🚀 [TRY THE LIVE PREDICTOR](https://bank-marketing-campaign-ml-project.vercel.app/)
 
 [💻 View Source Code](https://github.com/Diya8090/Bank-Marketing-Campaign-ML-Project-)
 
