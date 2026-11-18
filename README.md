@@ -78,8 +78,6 @@ Developed a web-based platform to manage student projects, track tasks, and moni
 
 **Tech Stack:** `React` · `C#` · `.NET Core Web API` · `SQL Server`
 
-**Status:** ✅ Completed
-
 ---
 ## 🏦 Bank Marketing Campaign Prediction
 
