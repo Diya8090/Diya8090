@@ -74,7 +74,7 @@ Full-stack application for managing students, mentors, and mentoring activities.
 
 ### 🎓 Student Project Management System
 
-Developed a web-based platform to streamline student project management, allowing users to manage projects, track tasks, monitor progress, and organize project-related activities efficiently.
+Developed a web-based platform to manage student projects, track tasks, and monitor project progress.
 
 **Tech Stack:** `React` · `C#` · `.NET Core Web API` · `SQL Server`
 
